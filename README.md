@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ravikrishnan!
 
 🎓 Currently working as a **Data Science Intern** at **Prediscan Medtech**  
-🧠 Passionate about **AI/ML** and **Data Science**, with a special interest in medical imaging  
-🚀 Currently fine-tuning the **MedGamma LLM model** for **medical diagnosis using eye fundus images**
+🧠 Passionate about **AI/ML**,**Data Science** and **Deep learning**
+🚀 Currently fine-tuning the **MedGemma LLM model** for **medical diagnosis using eye fundus images**
 
 ---
 
@@ -57,7 +57,7 @@
 
 ## ⚡ Fun Fact
 
-I’m combining my curiosity for AI with my interest in **healthcare** to build meaningful and impactful solutions for the future!
+I’m combining my curiosity for **AI** with my passion for **healthcare**, **solving climate change issues**, and **working for social causes** to build meaningful and impactful solutions for the future!
 
 <!---
 Ravikrishnan05/Ravikrishnan05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
