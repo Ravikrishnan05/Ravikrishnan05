@@ -17,20 +17,17 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
-  </a>
 
-  <!-- Web Frameworks / API -->
+  <!-- Web Frameworks / APIs -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
   </a>
 
-  <!-- Core ML / Deep Learning -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <!-- Machine Learning / DL -->
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
@@ -40,7 +37,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>
   </a>
 
-  <!-- Data Science & Visualization -->
+  <!-- Data Science Libraries -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
   </a>
@@ -51,21 +48,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="60" height="40"/>
   </a>
 
-  <!-- Specialized Libraries -->
+  <!-- Specialized ML -->
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Hugging_Face_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
   </a>
 
-  <!-- MLOps, Versioning & Tools -->
+  <!-- MLOps / Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </a>
@@ -75,15 +72,17 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://mlflow.org/img/MLflow-logo-final-black.png" title="MLflow" alt="MLflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mlflow-logo-black-and-white.png" title="MLflow" alt="MLflow" width="40" height="40"/>
   </a>
   <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="https://dvc.org/img/logo.svg" title="DVC" alt="DVC" width="40" height="40"/>
+    <img src="https://dvc.org/static/img/logo.png" title="DVC" alt="DVC" width="40" height="40"/>
   </a>
+
+  <!-- IDEs / Environments -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
   </a>
@@ -94,15 +93,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   </a>
 
-  <!-- Cloud Platforms -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <!-- Cloud -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
   </a>
 
 </p>
+
 
 
 ---
