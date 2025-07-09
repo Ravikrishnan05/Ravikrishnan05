@@ -54,7 +54,7 @@
 
   <!-- Specialized ML -->
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Hugging_Face_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/6/69/Hugging_Face_logo.svg](https://tse1.mm.bing.net/th/id/OIP.qfwhSex9WphMoJeSGVw29AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
